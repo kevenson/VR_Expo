@@ -60,6 +60,8 @@ For this
 Additionally, I knew that I wanted some kind of audio tutorial for this particular application. To accomplish this, I first wrote out my short descriptions for each of the five stations plus the introduction. Then I used [Amazon Polly](https://aws.amazon.com/polly/) to create playable mp3 files out of these text descriptions using natural-ish sounding voices. You can listen to these here:
 
 Intro:
+[Intro](/ProjectFiles/Media/AWS_Polly_Intro2.mp3)
+
 <audio src="/ProjectFiles/Media/AWS_Polly_Intro2.mp3" controls preload></audio>
 
 ## User Testing
